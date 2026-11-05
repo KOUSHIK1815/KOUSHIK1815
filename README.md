@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+Hi! I'm Koushik Reddy, a B.Tech graduate in Artificial Intelligence and Data Science, passionate about Data Analytics, Business Intelligence, and transforming raw data into meaningful insights that drive smarter business decisions.
+
 🔭 I'm currently working on Data Analytics and Business Intelligence projects.<br><br>👯 I'm looking to collaborate on Data Analytics, Business Intelligence, and Data Visualization projects.<br><br>🤝 I'm looking to connect with professionals and teams working on real-world data-driven solutions.<br><br>🌱 I'm continuously learning SQL, Python, Power BI, Tableau, and advanced data analysis techniques.<br><br>💬 Ask me about SQL, Python, Exploratory Data Analysis (EDA), Data Visualization, and Business Analytics.<br><br>⚡ Fun fact: I love turning complex datasets into clear, actionable business insights!
 
 
